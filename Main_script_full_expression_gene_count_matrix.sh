@@ -8,7 +8,7 @@ all_output_folder=$2
 # define the sample ID; each sample ID is sample name of each PCR well in sci-RNA-seq
 sample_ID=$3
 # define the location of index file for STAR mapping
-index="/net/shendure/vol10/projects/scRNA/nobackup/reference/index/STAR/STAR_hg19_mm10_RNAseq
+index="/net/shendure/vol10/projects/scRNA/nobackup/reference/index/STAR/STAR_hg19_mm10_RNAseq"
 # define the gtf file for gene counting
 gtf_file="/net/shendure/vol1/home/cao1025/reference/gtf_reference/hg19_mm10/rmchr.gencode.v19.chr_patch_hapl_scaff.annotation.gencode.vM12.chr_patch_hapl_scaff.annotation.gtf.gz"
 # define the location of main processing script
